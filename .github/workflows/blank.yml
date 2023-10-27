@@ -9,7 +9,7 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: exleonardo/waka-readme-stats@master
+      - uses: exleonardo/readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.waka_2f3adf3f-05cf-4b1d-b2ec-ed5be72faf10 }}
           GH_TOKEN: ${{ secrets.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 }}
