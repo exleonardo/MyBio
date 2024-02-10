@@ -44,7 +44,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" height="30" alt="css3 logo"  />
 
   <img width="12" />
-  <img src="[https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg](https://cdn.worldvectorlogo.com/logos/material-ui-1.svg)" height="30" alt="material logo"  />
+  <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" height="30" alt="material logo"  />
 </div>
 <hr>
 <details>
