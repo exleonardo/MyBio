@@ -48,7 +48,7 @@
 <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/radix-ui.svg" height="30" alt="radix logo"  />
   <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/radix-ui.svg" height="30" alt="figma logo"  />
+  <img src="https://cdn.worldvectorlogo.com/logos/figma-5.svg" height="30" alt="figma logo"  />
   
 </div>
 <hr>
