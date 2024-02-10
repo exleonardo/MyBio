@@ -21,7 +21,6 @@
 
 
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-  ## $\colorbox{green}{{\color{white}{This\ is\ a\ Big\ Title}}}$
 <div align="center">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
