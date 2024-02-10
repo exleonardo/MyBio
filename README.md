@@ -5,7 +5,7 @@
 <br>
 </h1>
 
-<a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
+<a href="#"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
 
 - 👋 Hi ! My name is Alex and I'm a frontend developer, from Belarus
 - 🌱 I’m currently learning Typescript and React;
